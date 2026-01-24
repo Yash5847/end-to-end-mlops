@@ -1,0 +1,23 @@
+body {
+    background: #f5f7fb;
+}
+
+.card {
+    border-radius: 20px;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+.btn-primary {
+    background: #0d6efd;
+    border: none;
+    border-radius: 12px;
+}
+
+.alert-success {
+    border-radius: 12px;
+    background: #d4edda;
+    color: #155724;
+}
